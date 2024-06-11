@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Baasil
+## Hi there 👋 It's me Baasil Sabry
 
 Software Engineering Student @ Java Institute of Advanced Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -9,7 +9,6 @@ Software Engineering Student @ Java Institute of Advanced Technology
 - 💬 Ask me about web development and hosting
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know Sinhala and Tamil.
-- ![YouTube Channel Subscribers](https://www.youtube.com/channel/UCurtskP-xsFcondgL3TRE0A)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
