@@ -11,10 +11,10 @@ Software Engineering Student @ Java Institute of Advanced Technology
 - ⚡ Fun fact: I know Sinhala and Tamil.
 
 ### Languages I Code In
- <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+ <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img  height="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" />
 
 ### Frameworks and Libraries &  IDEs
-<img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://www.chartjs.org/media/logo-title.svg" height="50" />
 
 
 
