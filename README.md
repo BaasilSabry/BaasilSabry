@@ -48,9 +48,9 @@
 ---
 
 ### 💬 Let's Connect
-- 📧 Email: [baasilsabry@gmail.com](mailto:baasilsabry@gmail.com)
+- 📧 Email: [baasilsabry@gmail.com](mailto:asmbaasilnb@gmail.com)
 - 🌐 Website: [baasilsabry.com](https://www.baasilsabry.com)
-- 💼 LinkedIn: [linkedin.com/in/baasilsabry](https://www.linkedin.com/in/baasilsabry)
+- 💼 LinkedIn: [linkedin.com/in/baasilsabry](https://www.linkedin.com/in/baasil-sabry-72a7a92ba/)
 - 📹 Meta Gaming Creator (Past): Built a community of 78K+ followers in South Asia
 
 ---
