@@ -1,32 +1,62 @@
-## Hi there 👋 It's me Baasil Sabry
+# 👋 Hi, I'm Baasil Sabry
 
-"Undergraduate Software Engineering Student @ Java Institute of Advanced Technology
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my <a href="https://www.baasilsabry.com/" target="blank">[portfolio]</a>                                
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on web development
-- 🤔 I’m a first-year student seeking guidance for future placements in top tech companies
-- 💬 Ask me about web development and hosting
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I know Sinhala and Tamil.
+🎓 Computer Science undergraduate at **Edith Cowan University (ECU), Sri Lanka Campus**  
+💡 Passionate about **IoT**, **AI**, and building **digital experiences** that make a difference  
+🌐 Multilingual: Fluent in **English**, **Tamil**, and **Sinhala**  
+📫 Portfolio: [baasilsabry.com](https://www.baasilsabry.com)
 
-### Languages I Code In
- <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img  height="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="developer gif"/>
 
-### Frameworks and Libraries &  IDEs
-<img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://www.chartjs.org/media/logo-title.svg" height="50" />
+---
 
+### 🚀 What I'm Working On
+- Exploring **Internet of Things (IoT)** applications for historical and cultural sites  
+- Diving into **Java** and **JavaScript** for software and web development  
+- Learning **AI** fundamentals and real-world healthcare tech use cases  
+- Building my professional toolkit through **Meta** and **IBM** certifications
 
+---
 
+### 🛠️ Tech Stack & Tools
 
+#### 💻 Languages
+<p>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="40"/> 
+  <img src="https://img.icons8.com/color/48/html-5.png" height="40"/> 
+  <img src="https://img.icons8.com/color/48/css3.png" height="40"/> 
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="php"/> 
+</p>
 
+#### ⚙️ Frameworks & IDEs
+<p>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" height="40"/> 
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> 
+  <img src="https://www.chartjs.org/media/logo-title.svg" height="40"/> 
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="Git"/>
+</p>
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+---
 
+### 🔧 Dev Environment
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+</p>
 
+---
 
+### 💬 Let's Connect
+- 📧 Email: [baasilsabry@gmail.com](mailto:baasilsabry@gmail.com)
+- 🌐 Website: [baasilsabry.com](https://www.baasilsabry.com)
+- 💼 LinkedIn: [linkedin.com/in/baasilsabry](https://www.linkedin.com/in/baasilsabry)
+- 📹 Meta Gaming Creator (Past): Built a community of 78K+ followers in South Asia
 
+---
 
-
+### ⚡ Fun Facts
+- I love fusing tech with creativity—especially in **eSports**, **gaming**, and **storytelling**
+- Former **Facebook Gaming Partner** & top-ranking streamer in South Asia
+- Big believer in **tech for good**, especially in **healthcare innovation** and **education**
 
